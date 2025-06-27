@@ -36,7 +36,6 @@ The use of `useReducer` together with `createContext` and `useContext` enables a
 ## 🔧 Instalación / Installation
 
 ```bash
-git clone https://github.com/tu-usuario/useReducer-cart-simulator.git
-cd useReducer-cart-simulator
+clone
 npm install
 npm run dev
