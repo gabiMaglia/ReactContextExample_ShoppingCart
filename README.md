@@ -36,6 +36,6 @@ The use of `useReducer` together with `createContext` and `useContext` enables a
 ## 🔧 Instalación / Installation
 
 ```bash
-clone
+
 npm install
 npm run dev
